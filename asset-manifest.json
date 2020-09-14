@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Fantasy/static/css/main.e744fab9.chunk.css",
-    "main.js": "/Fantasy/static/js/main.e0324d7c.chunk.js",
-    "main.js.map": "/Fantasy/static/js/main.e0324d7c.chunk.js.map",
+    "main.js": "/Fantasy/static/js/main.4e12ccd8.chunk.js",
+    "main.js.map": "/Fantasy/static/js/main.4e12ccd8.chunk.js.map",
     "runtime-main.js": "/Fantasy/static/js/runtime-main.781a416f.js",
     "runtime-main.js.map": "/Fantasy/static/js/runtime-main.781a416f.js.map",
     "static/css/2.0161871a.chunk.css": "/Fantasy/static/css/2.0161871a.chunk.css",
     "static/js/2.6f3da2b9.chunk.js": "/Fantasy/static/js/2.6f3da2b9.chunk.js",
     "static/js/2.6f3da2b9.chunk.js.map": "/Fantasy/static/js/2.6f3da2b9.chunk.js.map",
     "index.html": "/Fantasy/index.html",
-    "precache-manifest.5d7297e6cc6f41b125a1e8154b93a8d1.js": "/Fantasy/precache-manifest.5d7297e6cc6f41b125a1e8154b93a8d1.js",
+    "precache-manifest.89f0a5d9f7a8976e24c1545eedcd47c6.js": "/Fantasy/precache-manifest.89f0a5d9f7a8976e24c1545eedcd47c6.js",
     "service-worker.js": "/Fantasy/service-worker.js",
     "static/css/2.0161871a.chunk.css.map": "/Fantasy/static/css/2.0161871a.chunk.css.map",
     "static/css/main.e744fab9.chunk.css.map": "/Fantasy/static/css/main.e744fab9.chunk.css.map",
@@ -51,6 +51,6 @@
     "static/css/2.0161871a.chunk.css",
     "static/js/2.6f3da2b9.chunk.js",
     "static/css/main.e744fab9.chunk.css",
-    "static/js/main.e0324d7c.chunk.js"
+    "static/js/main.4e12ccd8.chunk.js"
   ]
 }
